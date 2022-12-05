@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs_639_website=self.webpackChunkcs_639_website||[]).push([[8861],{1726:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/CS639-Website/blog/tags/hola","allTagsPath":"/CS639-Website/blog/tags","count":1}')}}]);
