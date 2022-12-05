@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcs_639_website=self.webpackChunkcs_639_website||[]).push([[6579],{5102:e=>{e.exports=JSON.parse('{"permalink":"/CS639-Website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
