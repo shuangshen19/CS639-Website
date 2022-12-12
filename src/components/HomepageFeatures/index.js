@@ -27,7 +27,7 @@ const FeatureList = [
     srcImg: 'img/preview_result.png',
     description: (
       <>
-        Our goal is to achieve the result presented in Kindling the Darkness: A Practical Low-light Image Enhancer from Zhang et al. For example, given the input(left image), we could generate the corresponding result shown as the right image.
+        Our goal is to achieve the result presented in Kindling the Darkness: A Practical Low-light Image Enhancer from Zhang et al. For example, given the input(upper image), we could generate the corresponding result shown as the bottom image.
       </>
     ),
   },
