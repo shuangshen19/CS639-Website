@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Low-light Image Enhancement using Deep Learning',
-  staticDirectories: ['public', 'static'],
   tagline: 'Sunny Shen and Ping-Han Chuang',
   url: 'https://shuangshen19.github.io',
   baseUrl: '/CS639-Website/',
