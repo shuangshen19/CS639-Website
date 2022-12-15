@@ -16,7 +16,7 @@ We evaluated the results by objective and subjective methods. For the objective 
 
 ### Quantitative Results
 We used PSNR and SSIM with high light image as target.
-|  | PSNR | SSIM |
+| Argument | PSNR | SSIM |
 | :-----------:  | :-----------:  | :-----------:  |
 | without enhancement  | 7.77  | 0.1952  |
 | with enhancement  | 18.5  | 0.8016  |
@@ -32,8 +32,8 @@ The evaluation showed that a higher ratio might get better results and with enha
 
 ### Artifacts
 Evaluation results contained artifacts that showed slightly different colors and halos.
-<img style={{float: 'left', width: '50%;'}} src="./img/input_3_ratio2.0.jpg" />
-<img style={{float: 'right', width: '50%;'}} src="./img/final_3_ratio5.0.jpg" />
+<img style={{float: 'left', width: '50%;'}} src={require("./img/input_3_ratio2.0.jpg")} />
+<img style={{float: 'right', width: '50%;'}} src={require("./img/final_3_ratio5.0.jpg")} />
 
 ### Same Model with Our Photos
 Camera model: Image captured by Iphone X
