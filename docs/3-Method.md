@@ -26,7 +26,7 @@ Since there is no ground truth reflectance and illumination, the network is trai
 ## Layer Decomposition Net
 Layer decomposition net is the first phase of the algorithm. Its task is to learn the decomposition of retinex theory. Its inputs are a high-light image and a low-light image and its outputs are reflectance map and illumination map of high-light image and those of low-light image.
 
-There are two branches in this network. One branch is for generating reflectance map and the other is for generating illumination map. The architecture of reflectance branch is U-Net and that of illumination branch is simply 3 convolutional layers. Also, last layer of reflectance branch is passed to illumination branch for excluding texture on illumination map.
+There are two branches in this network. One branch is for generating reflectance map and the other is for generating illumination map. The architecture of reflectance branch is U-Net [4] and that of illumination branch is simply 3 convolutional layers. Also, last layer of reflectance branch is passed to illumination branch for excluding texture on illumination map.
 
 Figure 3.3 shows loss functions used in layer decomposition net. The first one wants reflectance map of high light and that of low light to be close since the scene is the same. The second one makes illumination becomes piece-wise smooth. The third one wants to preserve strong edges in both illumination maps while depress weak edges. The last one wants the reconstruction to be close to input.
 
