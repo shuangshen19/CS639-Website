@@ -32,9 +32,12 @@ The evaluation showed that a higher ratio might get better results and with enha
 
 ### Artifacts
 Evaluation results contained artifacts that showed slightly different colors and halos.
-<img style="float: left; width: 50%;" src="./img/input_3_ratio2.0.jpg">
-<img style="float: right; width: 50%;" src="./img/final_3_ratio5.0.jpg">
+<img style="float: left; width: 50%;" src="./img/input_3_ratio2.0.jpg" />
+<img style="float: right; width: 50%;" src="./img/final_3_ratio5.0.jpg" />
 
 ### Same Model with Our Photos
 Camera model: Image captured by Iphone X
-
+Ratio: 5.0
+| Input | Decompostion Result | Illumination Result | Restoration Result | Final Result |
+| :-----------:  | :-----------:  | :-----------:  | :-----------: | :-----------:  |
+| ![Image](./img/decomp_i_0_ratio5.0.jpg)  | ![Image](./img/decomp_r_0_ratio5.0.jpg)  | ![Image](./img/adjustment_0_ratio5.0.jpg)  | ![Image](./img/restoration_0_ratio5.0.jpg) | ![Image](./img/final_0_ratio5.0.jpg)  |

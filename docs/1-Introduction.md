@@ -11,6 +11,6 @@ Regardless of the technological advancements, there is still a long way to impro
 ## Dataset
 Our dataset used a total of 485 low-light and high-light paired training images and 15 testing images originally used for Retinex-Net (LOLDataset[6]). Here you can see an example of training paired images, the left one is the low-light image and the right one is the high-light image.
 
-<img style="float: left; width: 50%;" src="./img/train_low_40.png">
-<img style="float: right; width: 50%;" src="./img/train_high_40.png">
+<img style="float: left; width: 50%;" src="./img/train_low_40.png" />
+<img style="float: right; width: 50%;" src="./img/train_high_40.png" />
 
