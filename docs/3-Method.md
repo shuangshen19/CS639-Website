@@ -2,5 +2,5 @@
 sidebar_position: 3
 ---
 
-# Method
+# Method & Discussions
 This is test text.

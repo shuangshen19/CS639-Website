@@ -13,3 +13,5 @@ sidebar_position: 9
 * [8] Github.io. Github, 2022. URL: https://pages.github.com/?(null) (visited on 11/10/2022).
 * [9] Docusaurus. Meta Platforms, 2022. URL: https://docusaurus.io/ (visited on 11/10/2022).
 * [10] PyTorch. The Linux Foundation, 2022. URL: https://pytorch.org/ (visited on 11/09/2022).
+* [11] Peak Signal-to-Noise Ratio as an Image Quality Metric. NATIONAL INSTRUMENTS CORP, 2022. URL: https://www.ni.com/en-us/innovations/white-papers/11/peak-signal-to-noise-ratio-as-an-image-quality-metric.html (visited on 12/14/2022).
+* [12] SSIM: Structural Similarity Index. Imatest LLC, 2022. URL: https://www.imatest.com/docs/ssim/ (visited on 12/14/2022).
