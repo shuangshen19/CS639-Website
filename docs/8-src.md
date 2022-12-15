@@ -9,7 +9,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 Please click [here](https://github.com/shuangshen19/CS639-Website/tree/) to see our source code.
 
 ## Dataset
-We used LOLDataset[6] from Chen Wei et al. to train our model, please click [here](https://daooshee.github.io/BMVC2018website/) to access the data.
+We used LOL Dataset[6] from Chen Wei et al. to train our model, please click [here](https://daooshee.github.io/BMVC2018website/) to access the data.
 
 ## Presentation Slides
 [Open in a new window](../static/file/presentation.pdf)

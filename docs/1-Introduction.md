@@ -9,7 +9,7 @@ In this project, the goal is to explore and research how we could use deep learn
 Regardless of the technological advancements, there is still a long way to improve this task. Low-light images typically suffer from two problems which are low visibility and high noise. Low visibility shows that the image has small pixel values due to few amount of photon, and high noise would dominate and disrupt the image content, so the overall signal-to-noise ratio is low. We are trying to survey as well as implement methods based on the *[Awesome Low Light Image Enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)* GitHub repository which provides a list of resources related to low light image enhancement, including datasets, methods, papers, and metrics to see the performance. Overall, we’d like to re-implement a method and then try to add some modifications upon it to see if we could improve the performance.
 
 ## Dataset
-Our dataset used a total of 485 low-light and high-light paired training images and 15 testing images originally used for *Retinex-Net* (LOLDataset[6]). Here you can see an example of training paired images, the left one is the low-light image and the right one is the high-light image.
+Our dataset used a total of 485 low-light and high-light paired training images and 15 testing images originally used for *Retinex-Net* (LOL Dataset[6]). Here you can see an example of training paired images, the left one is the low-light image and the right one is the high-light image.
 
 <img style={{float: 'left', width: '50%'}} src={require("./img/train_low_40.png").default} />
 <img style={{float: 'right', width: '50%'}} src={require("./img/train_high_40.png").default} />
