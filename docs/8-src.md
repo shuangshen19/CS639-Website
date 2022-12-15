@@ -2,23 +2,23 @@
 sidebar_position: 8
 ---
 
-# Presentation & Source Code
+# Source Code & Presentation
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-## Presentation Video
-<iframe src="https://drive.google.com/file/d/1CEY0ZeF8tCGg2VQiYVe1zgn1nzGUfQcT/preview" width="100%" height="640" allow="autoplay"></iframe>
+## Source Code
+Please click [here](https://github.com/shuangshen19/CS639-Website/tree/) to see our source code.
+
+## Dataset
+We used LOLDataset[6] from Chen Wei et al. to train our model, please click [here](https://daooshee.github.io/BMVC2018website/) to access the data.
 
 ## Presentation Slides
 [Open in a new window](../static/file/presentation.pdf)
 
 <iframe
   width="100%"
-  height="1000px"
+  height="800px"
   src={useBaseUrl('file/presentation.pdf')}
 ></iframe>
 
-## Source Code
-Please click [here](https://github.com/shuangshen19/CS639-Website/tree/) to see our source code.
-
-## Dataset
-We used LOLDataset[6] from Chen Wei et al. to train, please click [here](https://daooshee.github.io/BMVC2018website/) to access the data.
+## Presentation Video
+<iframe src="https://drive.google.com/file/d/1CEY0ZeF8tCGg2VQiYVe1zgn1nzGUfQcT/preview" width="100%" height="640" allow="autoplay"></iframe>
