@@ -6,7 +6,7 @@ sidebar_position: 8
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Source Code
-Please click [here](https://github.com/shuangshen19/CS639-Website/tree/) to see our source code.
+Please click [here](https://github.com/PHChuang/CS639-Final-Project) to see our source code.
 
 ## Dataset
 We used LOL Dataset[6] from Chen Wei et al. to train our model, please click [here](https://daooshee.github.io/BMVC2018website/) to access the data.
